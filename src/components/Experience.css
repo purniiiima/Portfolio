@@ -1,0 +1,30 @@
+.experience {
+    padding: 20px;
+    background: #fff;
+    margin-top: 10px;
+  }
+
+  .head{
+    margin-bottom: 25px;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .experience-item h3 {
+    margin-top: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .experience {
+      padding: 10px;
+    }
+  
+    .experience-item {
+      padding: 5px;
+    }
+  }
+  
